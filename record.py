@@ -14,8 +14,10 @@ import sounddevice as sd
 
 # Section about the microphone
 
-file_path = ""
+file_path = ""    #### A modifier 
 count = 0
+
+#### ATTENTION PENSER A RAJOUTER UN ELEMENT DANS FILE PATH POUR NE PAS ECRASER LES FICHIERS DES AUTRES !!
 
 def microphone(mot):
     
