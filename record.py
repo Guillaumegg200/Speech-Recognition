@@ -37,41 +37,41 @@ liste = ['renseignement','réception ',
 'service de démonstration',
 'secrétaire virtuelle',
 
-'reconnaissance vocale ',
+'reconnaissance vocale',
 
-'assistante virtuelle ',
+'assistante virtuelle',
 
-'Pont de conférence ',
+'Pont de conférence',
 
-'Espace de conférence ',
+'Espace de conférence',
 
-'Yassin Djaffar ',
+'Yassin Djaffar',
 
-'Ruby Gilles ',
+'Ruby Gilles',
 
-'Racine Thomas ',
+'Racine Thomas',
 
-'Roullier Alain ',
+'Roullier Alain',
 
-'Zeglazi Oussama ',
+'Zeglazi Oussama',
 
-'Mestres Jérôme ',
+'Mestres Jérôme',
 
-'Garcin Brice ',
+'Garcin Brice',
 
 'Pallier Thierry', 
 
 'Nouaille Bertrand', 
 
-'Anthony Costa ',
+'Anthony Costa',
 
 'Gabrielle Godard', 
 
-'Badja Katia ',
+'Badja Katia',
 
-'Salmi Nabila ',
+'Salmi Nabila',
 
-'Vindex Gaëlle ',
+'Vindex Gaëlle',
 ]
 
 
